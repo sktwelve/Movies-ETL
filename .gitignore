@@ -4,8 +4,7 @@ __pycache__/
 *$py.class
 
 config.py
-ratings.csv
-movies_metadata.csv
+Resources/ratings.csv
 
 
 # C extensions
